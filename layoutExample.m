@@ -1,2 +1,2 @@
-disp 'Joes cool code'
+disp 'Loris changes'
 surf(peaks)
